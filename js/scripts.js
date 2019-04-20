@@ -111,7 +111,7 @@ $(document).ready(function(){
 	});
 
 	$("#contact-open-mail").click(function (e) {
-		document.location.href = "look52013143388@outlook.com";
+		document.location.href = "mailto:look52013143388@outlook.com";
 	});
 });
 
